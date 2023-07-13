@@ -68,7 +68,6 @@
 #define     RangoBarrerasTren   150.0
 #define     RangoSonidoPlayer   55.0
 
-
 //==================================   CONFIGURACIÓN   ==================================//
 
 // DATABASE
