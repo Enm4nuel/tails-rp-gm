@@ -1,0 +1,1033 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:41:58] 
+[11:41:58] Server Plugins
+[11:41:58] --------------
+[11:41:58]  Loading plugin: crashdetect.dll
+[11:41:58]   CrashDetect plugin 4.19.4
+[11:41:58]   Loaded.
+[11:41:58]  Loading plugin: pawnregex.dll
+[11:41:58] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[11:41:58]   Loaded.
+[11:41:58]  Loading plugin: streamer.dll
+[11:41:58] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[11:41:58]   Loaded.
+[11:41:58]  Loading plugin: sscanf.dll
+[11:41:58] 
+
+[11:41:58]  ===============================
+
+[11:41:58]       sscanf plugin loaded.     
+
+[11:41:58]          Version:  2.8.3        
+
+[11:41:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:41:58]  ===============================
+
+[11:41:58]   Loaded.
+[11:41:58]  Loading plugin: mysql.dll
+[11:41:58]  >> plugin.mysql: R41-4 successfully loaded.
+[11:41:58]   Loaded.
+[11:41:58]  Loading plugin: pawnraknet.dll
+[11:41:58] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[11:41:58]   Loaded.
+[11:41:58]  Loading plugin: pawncmd.dll
+[11:41:58] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[11:41:58]   Loaded.
+[11:41:58]  Loaded 7 plugins.
+
+[11:41:58] 
+[11:41:58] Filterscripts
+[11:41:58] ---------------
+[11:41:58]   Loading filterscript 'Mapas.amx'...
+[11:41:58]   Loading filterscript 'ls_elevator.amx'...
+[11:41:58]   Unable to load filterscript 'ls_elevator.amx'.
+[11:41:58]   Loaded 1 filterscripts.
+
+[11:41:59]  
+[11:41:59]  ======================================= 
+[11:41:59]  |                                     | 
+[11:41:59]  |    Optimising code, this may take   | 
+[11:41:59]  |        a little bit of time.        | 
+[11:41:59]  |                                     | 
+[11:41:59]  |            Please wait...           | 
+[11:41:59]  |                                     | 
+[11:41:59]  |=====================================| 
+[11:41:59]  |                                     | 
+[11:41:59]  | Note that these optimisations are   | 
+[11:41:59]  | designed to improve performance     | 
+[11:41:59]  | with the JIT plugin, which you are  | 
+[11:41:59]  | not currently using.  Get it here:  | 
+[11:41:59]  |                                     | 
+[11:41:59]  |      https://git.io/jit-plugin      | 
+[11:41:59]  |                                     | 
+[11:41:59]  ======================================= 
+[11:41:59]  
+[11:42:00]  
+[11:42:00]  
+[11:42:01]  
+[11:42:01]  ======================================= 
+[11:42:01]  |                                     | 
+[11:42:01]  |        YSI version 5.03.0689        | 
+[11:42:01]  |        By Alex "Y_Less" Cole        | 
+[11:42:01]  |                                     | 
+[11:42:01]  ======================================= 
+[11:42:01]  
+[11:42:01] -------------------------------------------
+[11:42:01] | Conexion correcta con la base de datos  |
+[11:42:01] -------------------------------------------
+[11:42:01]  
+[11:42:01] Number of vehicle models: 0
+[11:42:03]  
+[11:42:03] [CUENTAS]: 9
+[11:42:03] [FABRICAS]: 12
+[11:42:03] [VEHICULOS]: 171
+[11:42:03] [FACCIONES]: 4
+[11:42:03] [TERRITORIOS]: 98
+[11:42:03] [CURRICULUMS]: 3
+[11:42:03] - STATS CARGADOS
+[11:42:03]  
+[11:42:03] [ACTORES TIENDAS]: 49
+[11:42:03] [PUERTAS DINAMICAS]: 78
+[11:42:03] [PROPIEDADES]: 0
+[11:42:03] [ESTACIONAMIENTOS]: 6
+[11:42:32] [connection] 192.168.0.8:54307 requests connection cookie.
+[11:42:33] [connection] incoming connection: 192.168.0.8:54307 id: 0
+[11:42:38] [join] Dhyxkihll_Khinhnxn has joined the server (0:192.168.0.8)
+[11:42:42] Dhyxkihll_Khinhnxn(0) - (Escape en registro)
+[11:42:42] [part] Dhyxkihll_Khinhnxn has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:44:28] 
+[11:44:28] Server Plugins
+[11:44:28] --------------
+[11:44:28]  Loading plugin: crashdetect.dll
+[11:44:28]   CrashDetect plugin 4.19.4
+[11:44:28]   Loaded.
+[11:44:28]  Loading plugin: pawnregex.dll
+[11:44:28] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[11:44:28]   Loaded.
+[11:44:28]  Loading plugin: streamer.dll
+[11:44:28] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[11:44:28]   Loaded.
+[11:44:28]  Loading plugin: sscanf.dll
+[11:44:28] 
+
+[11:44:28]  ===============================
+
+[11:44:28]       sscanf plugin loaded.     
+
+[11:44:28]          Version:  2.8.3        
+
+[11:44:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:44:28]  ===============================
+
+[11:44:28]   Loaded.
+[11:44:28]  Loading plugin: mysql.dll
+[11:44:28]  >> plugin.mysql: R41-4 successfully loaded.
+[11:44:28]   Loaded.
+[11:44:28]  Loading plugin: pawnraknet.dll
+[11:44:28] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[11:44:28]   Loaded.
+[11:44:28]  Loading plugin: pawncmd.dll
+[11:44:28] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[11:44:28]   Loaded.
+[11:44:28]  Loaded 7 plugins.
+
+[11:44:28] 
+[11:44:28] Filterscripts
+[11:44:28] ---------------
+[11:44:28]   Loading filterscript 'Mapas.amx'...
+[11:44:28]   Loading filterscript 'ls_elevator.amx'...
+[11:44:28]   Unable to load filterscript 'ls_elevator.amx'.
+[11:44:28]   Loaded 1 filterscripts.
+
+[11:44:28]  
+[11:44:28]  ======================================= 
+[11:44:28]  |                                     | 
+[11:44:28]  |    Optimising code, this may take   | 
+[11:44:28]  |        a little bit of time.        | 
+[11:44:28]  |                                     | 
+[11:44:28]  |            Please wait...           | 
+[11:44:28]  |                                     | 
+[11:44:28]  |=====================================| 
+[11:44:28]  |                                     | 
+[11:44:28]  | Note that these optimisations are   | 
+[11:44:28]  | designed to improve performance     | 
+[11:44:28]  | with the JIT plugin, which you are  | 
+[11:44:28]  | not currently using.  Get it here:  | 
+[11:44:28]  |                                     | 
+[11:44:28]  |      https://git.io/jit-plugin      | 
+[11:44:28]  |                                     | 
+[11:44:28]  ======================================= 
+[11:44:28]  
+[11:44:31]  
+[11:44:31]  
+[11:44:31]  
+[11:44:31]  ======================================= 
+[11:44:31]  |                                     | 
+[11:44:31]  |        YSI version 5.03.0689        | 
+[11:44:31]  |        By Alex "Y_Less" Cole        | 
+[11:44:31]  |                                     | 
+[11:44:31]  ======================================= 
+[11:44:31]  
+[11:44:31] -------------------------------------------
+[11:44:31] | Conexion correcta con la base de datos  |
+[11:44:31] -------------------------------------------
+[11:44:31]  
+[11:44:31] Number of vehicle models: 0
+[11:44:33]  
+[11:44:33] [CUENTAS]: 9
+[11:44:33] [FABRICAS]: 12
+[11:44:33] [VEHICULOS]: 171
+[11:44:33] [FACCIONES]: 4
+[11:44:33] [TERRITORIOS]: 98
+[11:44:33] [CURRICULUMS]: 3
+[11:44:33] - STATS CARGADOS
+[11:44:33]  
+[11:44:33] [ACTORES TIENDAS]: 49
+[11:44:33] [PUERTAS DINAMICAS]: 78
+[11:44:33] [ESTACIONAMIENTOS]: 6
+[11:44:33] [PROPIEDADES]: 0
+[11:44:48] [connection] 192.168.0.8:64062 requests connection cookie.
+[11:44:49] [connection] incoming connection: 192.168.0.8:64062 id: 0
+[11:44:53] [join] Dhyxkihll_Khinhnxn has joined the server (0:192.168.0.8)
+[11:45:01] Dhyxkihll_Khinhnxn(0) - (Escape en registro)
+[11:45:01] [part] Dhyxkihll_Khinhnxn has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:48:27] 
+[12:48:27] Server Plugins
+[12:48:27] --------------
+[12:48:27]  Loading plugin: crashdetect.dll
+[12:48:27]   CrashDetect plugin 4.19.4
+[12:48:27]   Loaded.
+[12:48:27]  Loading plugin: pawnregex.dll
+[12:48:27] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[12:48:27]   Loaded.
+[12:48:27]  Loading plugin: streamer.dll
+[12:48:27] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[12:48:27]   Loaded.
+[12:48:27]  Loading plugin: sscanf.dll
+[12:48:27] 
+
+[12:48:27]  ===============================
+
+[12:48:27]       sscanf plugin loaded.     
+
+[12:48:27]          Version:  2.8.3        
+
+[12:48:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:48:27]  ===============================
+
+[12:48:27]   Loaded.
+[12:48:27]  Loading plugin: mysql.dll
+[12:48:27]  >> plugin.mysql: R41-4 successfully loaded.
+[12:48:27]   Loaded.
+[12:48:27]  Loading plugin: pawnraknet.dll
+[12:48:27] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[12:48:27]   Loaded.
+[12:48:27]  Loading plugin: pawncmd.dll
+[12:48:27] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[12:48:27]   Loaded.
+[12:48:27]  Loaded 7 plugins.
+
+[12:48:27] 
+[12:48:27] Filterscripts
+[12:48:27] ---------------
+[12:48:27]   Loading filterscript 'Mapas.amx'...
+[12:48:27]   Loading filterscript 'ls_elevator.amx'...
+[12:48:27]   Unable to load filterscript 'ls_elevator.amx'.
+[12:48:27]   Loaded 1 filterscripts.
+
+[12:48:27]  
+[12:48:27]  ======================================= 
+[12:48:27]  |                                     | 
+[12:48:27]  |    Optimising code, this may take   | 
+[12:48:27]  |        a little bit of time.        | 
+[12:48:27]  |                                     | 
+[12:48:27]  |            Please wait...           | 
+[12:48:27]  |                                     | 
+[12:48:27]  |=====================================| 
+[12:48:27]  |                                     | 
+[12:48:27]  | Note that these optimisations are   | 
+[12:48:27]  | designed to improve performance     | 
+[12:48:27]  | with the JIT plugin, which you are  | 
+[12:48:27]  | not currently using.  Get it here:  | 
+[12:48:27]  |                                     | 
+[12:48:27]  |      https://git.io/jit-plugin      | 
+[12:48:27]  |                                     | 
+[12:48:27]  ======================================= 
+[12:48:27]  
+[12:48:29]  
+[12:48:29]  
+[12:48:29]  
+[12:48:29]  ======================================= 
+[12:48:29]  |                                     | 
+[12:48:29]  |        YSI version 5.03.0689        | 
+[12:48:29]  |        By Alex "Y_Less" Cole        | 
+[12:48:29]  |                                     | 
+[12:48:29]  ======================================= 
+[12:48:29]  
+[12:48:29] -------------------------------------------
+[12:48:29] | Conexion correcta con la base de datos  |
+[12:48:29] -------------------------------------------
+[12:48:29]  
+[12:48:29] Number of vehicle models: 0
+[12:48:31]  
+[12:48:31] [CUENTAS]: 9
+[12:48:31] [FABRICAS]: 12
+[12:48:31] [VEHICULOS]: 171
+[12:48:31] [FACCIONES]: 4
+[12:48:31] [TERRITORIOS]: 98
+[12:48:31] [CURRICULUMS]: 3
+[12:48:31] - STATS CARGADOS
+[12:48:31]  
+[12:48:31] [ACTORES TIENDAS]: 49
+[12:48:31] [PUERTAS DINAMICAS]: 78
+[12:48:31] [PROPIEDADES]: 0
+[12:48:31] [ESTACIONAMIENTOS]: 6
+[12:48:58] [connection] 192.168.0.8:62970 requests connection cookie.
+[12:48:59] [connection] incoming connection: 192.168.0.8:62970 id: 0
+[12:49:04] [join] Dhyxkihll_Khinhnxn has joined the server (0:192.168.0.8)
+[12:49:34] Dhyxkihll_Khinhnxn(0) - (Escape en registro)
+[12:49:34] [part] Dhyxkihll_Khinhnxn has left the server (0:2)
+[12:49:57] [connection] 192.168.0.8:51359 requests connection cookie.
+[12:49:58] [connection] incoming connection: 192.168.0.8:51359 id: 0
+[12:50:02] [join] Martin_Fasheroxd has joined the server (0:192.168.0.8)
+[12:50:23] [CMD] [Martin_Fasheroxd][DB: 10]: /inventairo 
+[12:50:25] [CMD] [Martin_Fasheroxd][DB: 10]: /inventario 
+[12:50:37] [CMD] [Martin_Fasheroxd][DB: 10]: /stats 
+[12:50:39] [CMD] [Martin_Fasheroxd][DB: 10]: /ayuda 
+[12:51:04] [CMD] [Martin_Fasheroxd][DB: 10]: /consumir preper
+[12:51:41] [CMD] [Martin_Fasheroxd][DB: 10]: /n xd
+[12:51:52] [part] Martin_Fasheroxd has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:41:59] 
+[00:41:59] Server Plugins
+[00:41:59] --------------
+[00:41:59]  Loading plugin: crashdetect.dll
+[00:41:59]   Failed.
+[00:41:59]  Loading plugin: pawnregex.dll
+[00:41:59]   Failed.
+[00:41:59]  Loading plugin: streamer.dll
+[00:41:59]   Failed.
+[00:41:59]  Loading plugin: sscanf.dll
+[00:41:59]   Failed.
+[00:41:59]  Loading plugin: mysql.dll
+[00:41:59]   Failed.
+[00:41:59]  Loading plugin: pawnraknet.dll
+[00:41:59]   Failed.
+[00:41:59]  Loading plugin: pawncmd.dll
+[00:41:59]   Failed.
+[00:41:59]  Loaded 0 plugins.
+
+[00:42:00] 
+[00:42:00] Filterscripts
+[00:42:00] ---------------
+[00:42:00]   Loading filterscript 'Mapas.amx'...
+[00:42:00]   Loading filterscript 'ls_elevator.amx'...
+[00:42:00]   Unable to load filterscript 'ls_elevator.amx'.
+[00:42:00]   Loaded 1 filterscripts.
+
+[00:42:00] Script[gamemodes/Tails.amx]: Run time error 19: "File or function is not found"
+[00:42:00] Number of vehicle models: 0
+[00:42:21] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:42:53] 
+[00:42:53] Server Plugins
+[00:42:53] --------------
+[00:42:53]  Loading plugin: crashdetect.dll
+[00:42:53]   CrashDetect plugin 4.19.4
+[00:42:53]   Loaded.
+[00:42:53]  Loading plugin: pawnregex.dll
+[00:42:53] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[00:42:53]   Loaded.
+[00:42:53]  Loading plugin: streamer.dll
+[00:42:54] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[00:42:54]   Loaded.
+[00:42:54]  Loading plugin: sscanf.dll
+[00:42:54] 
+
+[00:42:54]  ===============================
+
+[00:42:54]       sscanf plugin loaded.     
+
+[00:42:54]          Version:  2.8.3        
+
+[00:42:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:42:54]  ===============================
+
+[00:42:54]   Loaded.
+[00:42:54]  Loading plugin: mysql.dll
+[00:42:54]  >> plugin.mysql: R41-4 successfully loaded.
+[00:42:54]   Loaded.
+[00:42:54]  Loading plugin: pawnraknet.dll
+[00:42:54] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[00:42:54]   Loaded.
+[00:42:54]  Loading plugin: pawncmd.dll
+[00:42:54] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[00:42:54]   Loaded.
+[00:42:54]  Loaded 7 plugins.
+
+[00:42:54] 
+[00:42:54] Filterscripts
+[00:42:54] ---------------
+[00:42:54]   Loading filterscript 'Mapas.amx'...
+[00:42:55]   Loading filterscript 'ls_elevator.amx'...
+[00:42:55]   Unable to load filterscript 'ls_elevator.amx'.
+[00:42:55]   Loaded 1 filterscripts.
+
+[00:42:55]  
+[00:42:55]  ======================================= 
+[00:42:55]  |                                     | 
+[00:42:55]  |    Optimising code, this may take   | 
+[00:42:55]  |        a little bit of time.        | 
+[00:42:55]  |                                     | 
+[00:42:55]  |            Please wait...           | 
+[00:42:55]  |                                     | 
+[00:42:55]  |=====================================| 
+[00:42:55]  |                                     | 
+[00:42:55]  | Note that these optimisations are   | 
+[00:42:55]  | designed to improve performance     | 
+[00:42:55]  | with the JIT plugin, which you are  | 
+[00:42:55]  | not currently using.  Get it here:  | 
+[00:42:55]  |                                     | 
+[00:42:55]  |      https://git.io/jit-plugin      | 
+[00:42:55]  |                                     | 
+[00:42:55]  ======================================= 
+[00:42:55]  
+[00:43:05]  
+[00:43:05]  
+[00:43:05]  
+[00:43:05]  ======================================= 
+[00:43:05]  |                                     | 
+[00:43:05]  |        YSI version 5.03.0689        | 
+[00:43:05]  |        By Alex "Y_Less" Cole        | 
+[00:43:05]  |                                     | 
+[00:43:05]  ======================================= 
+[00:43:05]  
+[00:43:05] -------------------------------------------
+[00:43:05] | Conexion correcta con la base de datos  |
+[00:43:05] -------------------------------------------
+[00:43:05]  
+[00:43:05] Number of vehicle models: 0
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'shopcar' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'sethealth' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'setarmor' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'racall' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'gotocar' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'getcar' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'fakebanx' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'disarm' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'crearcasaxd' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_RegAlias: command 'setarmor' not found
+[00:43:05] [Pawn.CMD] Plugin::n_PC_RegAlias: command 'sethealth' not found
+[00:43:07]  
+[00:43:07] [CUENTAS]: 30
+[00:43:08] [FABRICAS]: 12
+[00:43:08] [VEHICULOS]: 171
+[00:43:08] [FACCIONES]: 36
+[00:43:09] [TERRITORIOS]: 98
+[00:43:09] [CURRICULUMS]: 0
+[00:43:09] - STATS CARGADOS
+[00:43:09]  
+[00:43:09] [ACTORES TIENDAS]: 49
+[00:43:09] [PUERTAS DINAMICAS]: 78
+[00:43:09] [PROPIEDADES]: 49
+[00:43:09] [ESTACIONAMIENTOS]: 6
+[00:44:25] [connection] 127.0.0.1:49237 requests connection cookie.
+[00:44:26] [connection] incoming connection: 127.0.0.1:49237 id: 0
+[00:44:26] [join] Zuti_Zutii has joined the server (0:127.0.0.1)
+[00:45:16] Zuti_Zutii(0) - (Escape en registro)
+[00:45:17] [part] Zuti_Zutii has left the server (0:2)
+[00:45:41] [connection] 127.0.0.1:49238 requests connection cookie.
+[00:45:42] [connection] incoming connection: 127.0.0.1:49238 id: 0
+[00:45:43] [join] Zuti_Zutii has joined the server (0:127.0.0.1)
+[00:46:00] Zuti_Zutii(0) - (Escape en registro)
+[00:46:01] [part] Zuti_Zutii has left the server (0:2)
+[00:46:27] [connection] 127.0.0.1:49239 requests connection cookie.
+[00:46:28] [connection] incoming connection: 127.0.0.1:49239 id: 0
+[00:46:28] [join] Zuti_Zutiii has joined the server (0:127.0.0.1)
+[03:39:54] [CMD] [Zuti_Zutiii][DB: 32]: /preper 
+[03:39:58] [CMD] [Zuti_Zutiii][DB: 32]: /preper 
+[03:40:25] [CMD] [Zuti_Zutiii][DB: 32]: /ayuda trabajos
+[03:41:34] [CMD] [Zuti_Zutiii][DB: 32]: /gps 
+[03:43:20] [CMD] [Zuti_Zutiii][DB: 32]: /gps 
+[03:46:39] [part] Zuti_Zutiii has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:13:20] 
+[02:13:20] Server Plugins
+[02:13:20] --------------
+[02:13:20]  Loading plugin: crashdetect.dll
+[02:13:20]   CrashDetect plugin 4.19.4
+[02:13:20]   Loaded.
+[02:13:20]  Loading plugin: pawnregex.dll
+[02:13:20] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[02:13:20]   Loaded.
+[02:13:20]  Loading plugin: streamer.dll
+[02:13:20] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[02:13:20]   Loaded.
+[02:13:20]  Loading plugin: sscanf.dll
+[02:13:20] 
+
+[02:13:20]  ===============================
+
+[02:13:20]       sscanf plugin loaded.     
+
+[02:13:20]          Version:  2.8.3        
+
+[02:13:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:13:20]  ===============================
+
+[02:13:20]   Loaded.
+[02:13:20]  Loading plugin: mysql.dll
+[02:13:20]  >> plugin.mysql: R41-4 successfully loaded.
+[02:13:20]   Loaded.
+[02:13:20]  Loading plugin: pawnraknet.dll
+[02:13:20] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[02:13:20]   Loaded.
+[02:13:20]  Loading plugin: pawncmd.dll
+[02:13:20] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[02:13:20]   Loaded.
+[02:13:20]  Loaded 7 plugins.
+
+[02:13:21] 
+[02:13:21] Filterscripts
+[02:13:21] ---------------
+[02:13:21]   Loading filterscript 'Mapas.amx'...
+[02:13:21]   Loading filterscript 'ls_elevator.amx'...
+[02:13:21]   Unable to load filterscript 'ls_elevator.amx'.
+[02:13:21]   Loaded 1 filterscripts.
+
+[02:13:21]  
+[02:13:21]  ======================================= 
+[02:13:21]  |                                     | 
+[02:13:21]  |    Optimising code, this may take   | 
+[02:13:21]  |        a little bit of time.        | 
+[02:13:21]  |                                     | 
+[02:13:21]  |            Please wait...           | 
+[02:13:21]  |                                     | 
+[02:13:22]  |=====================================| 
+[02:13:22]  |                                     | 
+[02:13:22]  | Note that these optimisations are   | 
+[02:13:22]  | designed to improve performance     | 
+[02:13:22]  | with the JIT plugin, which you are  | 
+[02:13:22]  | not currently using.  Get it here:  | 
+[02:13:22]  |                                     | 
+[02:13:22]  |      https://git.io/jit-plugin      | 
+[02:13:22]  |                                     | 
+[02:13:22]  ======================================= 
+[02:13:22]  
+[02:13:33]  
+[02:13:33]  
+[02:13:33]  
+[02:13:33]  ======================================= 
+[02:13:33]  |                                     | 
+[02:13:33]  |        YSI version 5.03.0689        | 
+[02:13:33]  |        By Alex "Y_Less" Cole        | 
+[02:13:33]  |                                     | 
+[02:13:33]  ======================================= 
+[02:13:33]  
+[02:13:33] -------------------------------------------
+[02:13:33] | Conexion correcta con la base de datos  |
+[02:13:33] -------------------------------------------
+[02:13:34]  
+[02:13:34] Number of vehicle models: 0
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'shopcar' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'sethealth' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'setarmor' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'racall' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'gotocar' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'getcar' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'fakebanx' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'disarm' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'crearcasaxd' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_RegAlias: command 'setarmor' not found
+[02:13:34] [Pawn.CMD] Plugin::n_PC_RegAlias: command 'sethealth' not found
+[02:13:37]  
+[02:13:37] [CUENTAS]: 32
+[02:13:38] [FABRICAS]: 12
+[02:13:38] [VEHICULOS]: 171
+[02:13:39] [FACCIONES]: 36
+[02:13:39] [TERRITORIOS]: 98
+[02:13:39] [CURRICULUMS]: 0
+[02:13:39] - STATS CARGADOS
+[02:13:39]  
+[02:13:39] [ACTORES TIENDAS]: 49
+[02:13:39] [PUERTAS DINAMICAS]: 78
+[02:13:40] [ESTACIONAMIENTOS]: 6
+[02:13:40] [PROPIEDADES]: 49
+[02:15:19] [connection] 127.0.0.1:49273 requests connection cookie.
+[02:15:20] [connection] incoming connection: 127.0.0.1:49273 id: 0
+[02:15:20] [join] zulet_zulett has joined the server (0:127.0.0.1)
+[02:15:21] zulet_zulett(0) - (Nombre Anti-rol)
+[02:15:21] [part] zulet_zulett has left the server (0:2)
+[02:16:07] [connection] 127.0.0.1:49294 requests connection cookie.
+[02:16:08] [connection] incoming connection: 127.0.0.1:49294 id: 0
+[02:16:08] [join] Jhony_Lugo has joined the server (0:127.0.0.1)
+[02:16:50] [CMD] [Jhony_Lugo][DB: 33]: /preper 
+[02:18:19] [CMD] [Jhony_Lugo][DB: 33]: /credito 
+[02:18:21] [CMD] [Jhony_Lugo][DB: 33]: /creditos 
+[02:19:39] [CMD] [Jhony_Lugo][DB: 33]: /skills 
+[02:20:03] [CMD] [Jhony_Lugo][DB: 33]: /habilidades 
+[02:20:08] [CMD] [Jhony_Lugo][DB: 33]: /skills 
+[02:20:12] [CMD] [Jhony_Lugo][DB: 33]: /habilidad 
+[02:20:22] [CMD] [Jhony_Lugo][DB: 33]: /recibir stats
+[02:20:28] [CMD] [Jhony_Lugo][DB: 33]: /gps 
+[02:22:31] [CMD] [Jhony_Lugo][DB: 33]: /crear edc
+[02:22:55] [CMD] [Jhony_Lugo][DB: 33]: /actualizaciones 
+[02:23:02] [CMD] [Jhony_Lugo][DB: 33]: /cambio 
+[02:23:03] [CMD] [Jhony_Lugo][DB: 33]: /cambio 
+[02:23:05] [CMD] [Jhony_Lugo][DB: 33]: /cambios 
+[02:25:50] [CMD] [Jhony_Lugo][DB: 33]: /catalogo prendas
+[02:26:09] [CMD] [Jhony_Lugo][DB: 33]: /catalogo prendas
+[02:27:28] [CMD] [Jhony_Lugo][DB: 33]: /accesorios 
+[02:27:36] [CMD] [Jhony_Lugo][DB: 33]: /accesorios 
+[02:28:38] [CMD] [Jhony_Lugo][DB: 33]: /accesorios 
+[02:28:42] [CMD] [Jhony_Lugo][DB: 33]: /accesorios 
+[02:29:14] [CMD] [Jhony_Lugo][DB: 33]: /accesorios 
+[02:30:11] [CMD] [Jhony_Lugo][DB: 33]: /accesorios 
+[02:33:06] [part] Jhony_Lugo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:55:07] 
+[11:55:07] Server Plugins
+[11:55:07] --------------
+[11:55:07]  Loading plugin: crashdetect.dll
+[11:55:07]   CrashDetect plugin 4.19.4
+[11:55:07]   Loaded.
+[11:55:07]  Loading plugin: pawnregex.dll
+[11:55:07] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[11:55:07]   Loaded.
+[11:55:07]  Loading plugin: streamer.dll
+[11:55:08] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[11:55:08]   Loaded.
+[11:55:08]  Loading plugin: sscanf.dll
+[11:55:08] 
+
+[11:55:08]  ===============================
+
+[11:55:08]       sscanf plugin loaded.     
+
+[11:55:08]          Version:  2.8.3        
+
+[11:55:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:55:08]  ===============================
+
+[11:55:08]   Loaded.
+[11:55:08]  Loading plugin: mysql.dll
+[11:55:08]  >> plugin.mysql: R41-4 successfully loaded.
+[11:55:08]   Loaded.
+[11:55:08]  Loading plugin: pawnraknet.dll
+[11:55:08] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[11:55:08]   Loaded.
+[11:55:08]  Loading plugin: pawncmd.dll
+[11:55:08] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[11:55:08]   Loaded.
+[11:55:08]  Loaded 7 plugins.
+
+[11:55:08] 
+[11:55:08] Filterscripts
+[11:55:08] ---------------
+[11:55:08]   Loading filterscript 'Mapas.amx'...
+[11:55:08]   Loading filterscript 'ls_elevator.amx'...
+[11:55:08]   Loaded 2 filterscripts.
+
+[11:55:08]  
+[11:55:08]  ======================================= 
+[11:55:08]  |                                     | 
+[11:55:08]  |    Optimising code, this may take   | 
+[11:55:08]  |        a little bit of time.        | 
+[11:55:08]  |                                     | 
+[11:55:08]  |            Please wait...           | 
+[11:55:08]  |                                     | 
+[11:55:08]  |=====================================| 
+[11:55:08]  |                                     | 
+[11:55:08]  | Note that these optimisations are   | 
+[11:55:08]  | designed to improve performance     | 
+[11:55:08]  | with the JIT plugin, which you are  | 
+[11:55:08]  | not currently using.  Get it here:  | 
+[11:55:08]  |                                     | 
+[11:55:08]  |      https://git.io/jit-plugin      | 
+[11:55:08]  |                                     | 
+[11:55:08]  ======================================= 
+[11:55:08]  
+[11:55:09]  
+[11:55:09]  
+[11:55:09]  
+[11:55:09]  ======================================= 
+[11:55:09]  |                                     | 
+[11:55:09]  |        YSI version 5.03.0689        | 
+[11:55:09]  |        By Alex "Y_Less" Cole        | 
+[11:55:09]  |                                     | 
+[11:55:09]  ======================================= 
+[11:55:09]  
+[11:55:10] |-----------------------------------------
+[11:55:10] | Conexion fallida con la base de datos   |
+[11:55:10] | El servidor se cerrara en 5 segundos... |
+[11:55:10] |-----------------------------------------
+[11:55:10]  
+[11:55:10] Number of vehicle models: 2
+[11:55:10] --- Server Shutting Down.
+[11:55:10] Pawn.Regex plugin v1.1.1 by urShadow unloaded
+[11:55:10] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[11:55:10] 
+
+[11:55:10]  ===============================
+
+[11:55:10]      sscanf plugin unloaded.    
+
+[11:55:10]  ===============================
+
+[11:55:10] plugin.mysql: Unloading plugin...
+[11:55:10] plugin.mysql: Plugin unloaded.
+[11:55:10] Pawn.RakNet plugin v1.3.0 by urShadow has been unloaded
+[11:55:10] Pawn.CMD plugin v3.1.4 by urShadow unloaded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:58:11] 
+[11:58:11] Server Plugins
+[11:58:11] --------------
+[11:58:11]  Loading plugin: crashdetect.dll
+[11:58:11]   CrashDetect plugin 4.19.4
+[11:58:11]   Loaded.
+[11:58:11]  Loading plugin: pawnregex.dll
+[11:58:11] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[11:58:11]   Loaded.
+[11:58:11]  Loading plugin: streamer.dll
+[11:58:11] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[11:58:11]   Loaded.
+[11:58:11]  Loading plugin: sscanf.dll
+[11:58:11] 
+
+[11:58:11]  ===============================
+
+[11:58:11]       sscanf plugin loaded.     
+
+[11:58:11]          Version:  2.8.3        
+
+[11:58:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:58:11]  ===============================
+
+[11:58:11]   Loaded.
+[11:58:11]  Loading plugin: mysql.dll
+[11:58:11]  >> plugin.mysql: R41-4 successfully loaded.
+[11:58:11]   Loaded.
+[11:58:11]  Loading plugin: pawnraknet.dll
+[11:58:11] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[11:58:11]   Loaded.
+[11:58:11]  Loading plugin: pawncmd.dll
+[11:58:11] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[11:58:11]   Loaded.
+[11:58:11]  Loaded 7 plugins.
+
+[11:58:12] 
+[11:58:12] Filterscripts
+[11:58:12] ---------------
+[11:58:12]   Loading filterscript 'Mapas.amx'...
+[11:58:12]   Loading filterscript 'ls_elevator.amx'...
+[11:58:12]   Loaded 2 filterscripts.
+
+[11:58:12]  
+[11:58:12]  ======================================= 
+[11:58:12]  |                                     | 
+[11:58:12]  |    Optimising code, this may take   | 
+[11:58:12]  |        a little bit of time.        | 
+[11:58:12]  |                                     | 
+[11:58:12]  |            Please wait...           | 
+[11:58:12]  |                                     | 
+[11:58:12]  |=====================================| 
+[11:58:12]  |                                     | 
+[11:58:12]  | Note that these optimisations are   | 
+[11:58:12]  | designed to improve performance     | 
+[11:58:12]  | with the JIT plugin, which you are  | 
+[11:58:12]  | not currently using.  Get it here:  | 
+[11:58:12]  |                                     | 
+[11:58:12]  |      https://git.io/jit-plugin      | 
+[11:58:12]  |                                     | 
+[11:58:12]  ======================================= 
+[11:58:12]  
+[11:58:13]  
+[11:58:13]  
+[11:58:13]  
+[11:58:13]  ======================================= 
+[11:58:13]  |                                     | 
+[11:58:13]  |        YSI version 5.03.0689        | 
+[11:58:13]  |        By Alex "Y_Less" Cole        | 
+[11:58:13]  |                                     | 
+[11:58:13]  ======================================= 
+[11:58:13]  
+[11:58:13] -------------------------------------------
+[11:58:13] | Conexion correcta con la base de datos  |
+[11:58:13] -------------------------------------------
+[11:58:13]  
+[11:58:13] Number of vehicle models: 2
+[11:58:13] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'shopcar' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'sethealth' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'setarmor' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'racall' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'gotocar' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'getcar' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'fakebanx' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'disarm' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_RegAlias: command 'setarmor' not found
+[11:58:13] [Pawn.CMD] Plugin::n_PC_RegAlias: command 'sethealth' not found
+[11:58:15]  
+[11:58:15] [CUENTAS]: 39
+[11:58:15] [FABRICAS]: 12
+[11:58:15] [VEHICULOS]: 171
+[11:58:15] [FACCIONES]: 37
+[11:58:15] [TERRITORIOS]: 98
+[11:58:15] [CURRICULUMS]: 0
+[11:58:15]  
+[11:58:15] [ACTORES TIENDAS]: 49
+[11:58:15] [PUERTAS DINAMICAS]: 78
+[11:58:15] [PROPIEDADES]: 49
+[11:58:15] [ESTACIONAMIENTOS]: 6
+[11:58:47] [connection] 127.0.0.1:53312 requests connection cookie.
+[11:58:48] [connection] incoming connection: 127.0.0.1:53312 id: 0
+[11:58:49] [join] Viito_Scaletta has joined the server (0:127.0.0.1)
+[12:00:15] [part] Viito_Scaletta has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:00:26] 
+[12:00:26] Server Plugins
+[12:00:26] --------------
+[12:00:26]  Loading plugin: crashdetect.dll
+[12:00:26]   CrashDetect plugin 4.19.4
+[12:00:26]   Loaded.
+[12:00:26]  Loading plugin: pawnregex.dll
+[12:00:26] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[12:00:26]   Loaded.
+[12:00:26]  Loading plugin: streamer.dll
+[12:00:26] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[12:00:26]   Loaded.
+[12:00:26]  Loading plugin: sscanf.dll
+[12:00:26] 
+
+[12:00:26]  ===============================
+
+[12:00:26]       sscanf plugin loaded.     
+
+[12:00:26]          Version:  2.8.3        
+
+[12:00:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:00:26]  ===============================
+
+[12:00:26]   Loaded.
+[12:00:26]  Loading plugin: mysql.dll
+[12:00:26]  >> plugin.mysql: R41-4 successfully loaded.
+[12:00:26]   Loaded.
+[12:00:26]  Loading plugin: pawnraknet.dll
+[12:00:26] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[12:00:26]   Loaded.
+[12:00:26]  Loading plugin: pawncmd.dll
+[12:00:26] Pawn.CMD plugin v3.1.4 by urShadow loaded
+[12:00:26]   Loaded.
+[12:00:26]  Loaded 7 plugins.
+
+[12:00:26] 
+[12:00:26] Filterscripts
+[12:00:26] ---------------
+[12:00:26]   Loading filterscript 'Mapas.amx'...
+[12:00:26]   Loading filterscript 'ls_elevator.amx'...
+[12:00:26]   Loading filterscript 'peaje.amx'...
+[12:00:26]   Loading filterscript 'jobPetrolero.amx'...
+[12:00:26]   Unable to load filterscript 'jobPetrolero.amx'.
+[12:00:26]   Loaded 3 filterscripts.
+
+[12:00:26]  
+[12:00:26]  ======================================= 
+[12:00:26]  |                                     | 
+[12:00:26]  |    Optimising code, this may take   | 
+[12:00:26]  |        a little bit of time.        | 
+[12:00:26]  |                                     | 
+[12:00:26]  |            Please wait...           | 
+[12:00:26]  |                                     | 
+[12:00:26]  |=====================================| 
+[12:00:26]  |                                     | 
+[12:00:26]  | Note that these optimisations are   | 
+[12:00:26]  | designed to improve performance     | 
+[12:00:26]  | with the JIT plugin, which you are  | 
+[12:00:26]  | not currently using.  Get it here:  | 
+[12:00:26]  |                                     | 
+[12:00:26]  |      https://git.io/jit-plugin      | 
+[12:00:26]  |                                     | 
+[12:00:26]  ======================================= 
+[12:00:26]  
+[12:00:27]  
+[12:00:27]  
+[12:00:27]  
+[12:00:27]  ======================================= 
+[12:00:27]  |                                     | 
+[12:00:27]  |        YSI version 5.03.0689        | 
+[12:00:27]  |        By Alex "Y_Less" Cole        | 
+[12:00:27]  |                                     | 
+[12:00:27]  ======================================= 
+[12:00:27]  
+[12:00:27] -------------------------------------------
+[12:00:27] | Conexion correcta con la base de datos  |
+[12:00:27] -------------------------------------------
+[12:00:27]  
+[12:00:27] Number of vehicle models: 2
+[12:00:27] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'shopcar' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'sethealth' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'setarmor' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'racall' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'gotocar' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'getcar' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'fakebanx' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_SetFlags: cmd 'disarm' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_RegAlias: command 'setarmor' not found
+[12:00:27] [Pawn.CMD] Plugin::n_PC_RegAlias: command 'sethealth' not found
+[12:00:29]  
+[12:00:29] [CUENTAS]: 39
+[12:00:29] [FABRICAS]: 12
+[12:00:30] [VEHICULOS]: 171
+[12:00:30] [FACCIONES]: 37
+[12:00:30] [TERRITORIOS]: 98
+[12:00:30] [CURRICULUMS]: 0
+[12:00:30]  
+[12:00:30] [ACTORES TIENDAS]: 49
+[12:00:30] [PUERTAS DINAMICAS]: 78
+[12:00:30] [ESTACIONAMIENTOS]: 6
+[12:00:30] [PROPIEDADES]: 49
+[12:00:53] [connection] 127.0.0.1:50626 requests connection cookie.
+[12:00:54] [connection] incoming connection: 127.0.0.1:50626 id: 0
+[12:00:55] [join] Viito_Scaletta has joined the server (0:127.0.0.1)
+[12:02:05] [connection] 127.0.0.1:62789 requests connection cookie.
+[12:02:06] [connection] incoming connection: 127.0.0.1:62789 id: 1
+[12:02:07] [part] Viito_Scaletta has left the server (0:0)
+[12:02:08] [connection] incoming connection: 127.0.0.1:62790 id: 0
+[12:02:08] [join] Viito_Scaletta has joined the server (0:127.0.0.1)
+[12:03:07] [CMD] [Viito_Scaletta][DB: 31]: /localizar 
+[12:09:22] [CMD] [Viito_Scaletta][DB: 31]: /settime 
+[12:09:36] [CMD] [Viito_Scaletta][DB: 31]: /abandonar banda
+[12:09:43] [CMD] [Viito_Scaletta][DB: 31]: /dar faccion
+[12:09:51] [CMD] [Viito_Scaletta][DB: 31]: /dar faccion 0 5
+[12:10:14] [CMD] [Viito_Scaletta][DB: 31]: /dameasdequisde 
+[12:10:16] [CMD] [Viito_Scaletta][DB: 31]: /dameasdequisde 7
+[12:10:18] [CMD] [Viito_Scaletta][DB: 31]: /dar faccion 0 5
+[12:26:14] [CMD] [Viito_Scaletta][DB: 31]: /gps 
+[12:28:13] [CMD] [Viito_Scaletta][DB: 31]: /chaleco 
+[12:28:17] [CMD] [Viito_Scaletta][DB: 31]: /armas 
+[12:28:25] [CMD] [Viito_Scaletta][DB: 31]: /uniforme policia
+[12:29:49] [CMD] [Viito_Scaletta][DB: 31]: /dararma 
+[12:29:52] [CMD] [Viito_Scaletta][DB: 31]: /dararma 0 24
+[12:30:40] [CMD] [Viito_Scaletta][DB: 31]: /darfaccion 
+[12:30:53] [CMD] [Viito_Scaletta][DB: 31]: /darfaccion 0 1 4
+[12:30:57] [CMD] [Viito_Scaletta][DB: 31]: /abandonar banda
+[12:31:00] [CMD] [Viito_Scaletta][DB: 31]: /abandonar banda
+[12:32:11] [CMD] [Viito_Scaletta][DB: 31]: /set time
+[12:32:41] [CMD] [Viito_Scaletta][DB: 31]: /cbotpz 
+[12:32:44] [CMD] [Viito_Scaletta][DB: 31]: /cbotpz 20
+[12:33:35] [CMD] [Viito_Scaletta][DB: 31]: /gps 
+[12:34:37] [CMD] [Viito_Scaletta][DB: 31]: /ayuda 
+[12:35:44] [CMD] [Viito_Scaletta][DB: 31]: /skills 
+[12:40:56] [CMD] [Viito_Scaletta][DB: 31]: /ayuda 
+[12:41:55] [CMD] [Viito_Scaletta][DB: 31]: /prendas 
+[12:42:20] [CMD] [Viito_Scaletta][DB: 31]: /est 
+[12:45:06] [CMD] [Viito_Scaletta][DB: 31]: /localizar 
+[12:55:21] [part] Viito_Scaletta has left the server (0:1)
